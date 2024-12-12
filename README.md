@@ -25,7 +25,7 @@ _Nota: Pagina objetivo puede ser Miel o Historico. En cualquiera de los dos caso
 Python ms3C.py
 ```
 
-El bot va a crear una carpeta por cada materia **visible**. Dentro de cada materia, van a estar los archivos de los contenidos y ademas se va a crear tres archivos de texto extra:
+El bot va a crear una carpeta por cada materia **visible** y dentro de cada una, van a estar los archivos de los contenidos mas tres archivos de texto extra:
 - descargas_pdf.txt
 _contiene los links a los pdfs a forma de respaldo_
   

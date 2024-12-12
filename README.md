@@ -18,7 +18,7 @@ CREDENCIAL_USER = 123456789 #Usuario
 CREDENCIAL_PASSWORD = 'mi_usuario' #Contraseña
 PAGINA_OBJETIVO = 'https://miel.unlam.edu.ar/'
 ```
-_Nota: Pagina objetivo puede ser Miel o Historico. En cualquiera de los dos casos, requiere el link completo incluyendo el https. No puede ser algo como 'miel.unlam.edu.ar'_
+_Nota: Pagina objetivo puede ser Miel o Historico. En cualquiera de los dos casos, requiere el link completo incluyendo el https. No puede ser de la forma 'miel.unlam.edu.ar'_
 4. Colocar este nuevo archivo en el mismo directorio que el script
 5. Abrir una nueva consola en el directorio, ejecutar y esperar hasta que termine
 ```

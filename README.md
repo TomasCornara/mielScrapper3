@@ -12,10 +12,10 @@ Miel scrapper es un proyecto de script para backupear localmente los contenidos 
 
 1. Instalar las libreria Selenium y Termcolor usando Pip
 2. Generar un archivo "config.py"
-3. Abrir el archivo, copiar el siguiente formato y completar
+3. Abrir el archivo, copiar el siguiente formato y completar con los datos propios
 ```
-REDENCIAL_USER = 123456789
-CREDENCIAL_PASSWORD = 'mi_usuario'
+CREDENCIAL_USER = 123456789 #Usuario
+CREDENCIAL_PASSWORD = 'mi_usuario' #Contraseña
 PAGINA_OBJETIVO = 'https://miel.unlam.edu.ar/'
 ```
 _Nota: Pagina objetivo puede ser Miel o Historico. En cualquiera de los dos casos, requiere el link completo incluyendo el https. No puede ser algo como 'miel.unlam.edu.ar'_

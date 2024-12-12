@@ -1,6 +1,6 @@
 # MielScrapper3
 
-Miel scrapper es un proyecto de script para backupear localmente los contenidos de las materias de Miel usando la libreria Selenium.
+Miel scrapper es un script para backupear localmente los contenidos de las materias de Miel usando la libreria Selenium.
 
 ## Descripción del Proyecto
 

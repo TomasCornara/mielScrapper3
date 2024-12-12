@@ -34,3 +34,9 @@ _contiene los links a los archivos que no pudieron ser descargados_
 
 - link.txt
 _Contiene una copia de los links que estan posteados como contenido_
+
+## Preview
+
+
+![image](https://drive.google.com/uc?export=view&id=1xJ5RGNiJBbxdPaztkz3I32PIeEE83b0P)
+

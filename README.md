@@ -14,8 +14,8 @@ Miel scrapper es un script para backupear localmente los contenidos de las mater
 2. Generar un archivo "config.py"
 3. Abrir el archivo, copiar el siguiente formato y completar con los datos propios
 ```
-CREDENCIAL_USER = 123456789 #Usuario
-CREDENCIAL_PASSWORD = 'mi_usuario' #Contraseña
+CREDENCIAL_USER = 'mi_usuario' #Usuario
+CREDENCIAL_PASSWORD = 123456789 #Contraseña
 PAGINA_OBJETIVO = 'https://miel.unlam.edu.ar/'
 ```
 _Nota: Pagina objetivo puede ser Miel o Historico. En cualquiera de los dos casos, requiere el link completo incluyendo el https. No puede ser de la forma 'miel.unlam.edu.ar'_
